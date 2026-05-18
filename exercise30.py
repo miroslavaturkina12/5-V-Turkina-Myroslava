@@ -9,6 +9,8 @@ speed(0)
 for i in  range(1,100):
   color (colors [i % 3])
   up()
-  goto(randint(-200,200), randint(1,8))
+  goto(randint(-200,200), randint(-200,200))
+  down()
+  dot(randint(1,8))
 
-end_fill()
+done()
