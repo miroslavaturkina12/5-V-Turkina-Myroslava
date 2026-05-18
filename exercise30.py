@@ -1,4 +1,4 @@
-from rurtle  import *
+from turtle  import *
 from random  import *
 
 setup (400,400)
