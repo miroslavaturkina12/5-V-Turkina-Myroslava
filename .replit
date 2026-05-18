@@ -7,7 +7,7 @@ stack = "BEST_EFFORT_FALLBACK"
 channel = "stable-25_05"
 
 [workflows]
-runButton = "Exercise 27"
+runButton = "Exercise 28"
 
 [[workflows.workflow]]
 name = "Project"
